@@ -1,0 +1,12 @@
+{
+  "generator_version": "2.4.20250610073252-a265209163",
+  "timestamp": "2025-06-10 07:32:52.467978",
+  "components": [
+    "core",
+    "docs",
+    "tests",
+    "self"
+  ],
+  "self_source_checksum_md5": "d1eec26d73e219ff5c7c4e6daa7cc12a",
+  "self_source_checksum_sha256": "a26520916343afa41e6d91f541a1e0e5d9bce0cb89737798f5482756c501e1a9"
+}
